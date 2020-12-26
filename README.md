@@ -1,16 +1,12 @@
 # calculator
 
-A new Flutter application.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+An IOS based UI calculator for android using flutter.
 
-A few resources to get you started if this is your first Flutter project:
+## Steps to install:
+1. Clone the code or download as zip.
+2. Open in a IDE.
+3. Run pub get in the terminal
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
